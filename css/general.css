@@ -5,11 +5,11 @@
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
     /* font-size: 62.5%; */
-    font-size: 70%;
+    font-size: 75.0%;
 }
 
 html {
-    font-family: "Roboto Mono", sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
@@ -18,12 +18,12 @@ html {
 
 body {
     margin: 0;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     overflow-x: hidden;
 }
 
 code {
-    font-family: "Roboto Regular Mono", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
+    font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
     font-size: 0.875em; /* please adjust the ace font size accordingly in editor.js */
 }
 
@@ -151,7 +151,7 @@ blockquote {
 
 
 :not(.footnote-definition) + .footnote-definition,
-.footnote-definition + :not(.footnote-definition) { 
+.footnote-definition + :not(.footnote-definition) {
     margin-top: 2em;
 }
 .footnote-definition {
