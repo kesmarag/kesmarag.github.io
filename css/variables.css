@@ -32,13 +32,13 @@
 
 
 .kesmarag {
-    --bg: #e9e9f4;
+    --bg: #ffffff;
     --fg: #463285;
 
-    --sidebar-bg: #3b2e2a;
-    --sidebar-fg: #c8c9db;
+    --sidebar-bg: #c8c9db;
+    --sidebar-fg: #6a2450;
     --sidebar-non-existant: #505254;
-    --sidebar-active: #e69f67;
+    --sidebar-active: #e9e9f4;
     --sidebar-spacer: #45373a;
 
     --scrollbar: var(--sidebar-fg);
