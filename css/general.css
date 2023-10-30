@@ -37,11 +37,13 @@ main {
     overflow-x: auto;
 }
 
+h1 {color: red}
+
 /* Don't change font size in headers. */
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     font-size: unset;
-    color: black;
 }
+
 
 .left { float: left; }
 .right { float: right; }
