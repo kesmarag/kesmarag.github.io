@@ -39,7 +39,7 @@ main {
 
 /* Don't change font size in headers. */
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-    font-size: unset; color: red;
+    font-size: unset;
 }
 
 .left { float: left; }
@@ -48,7 +48,7 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .hide-boring .boring { display: none; }
 .hidden { display: none !important; }
 
-h2, h3 { margin-top: 2.5em; color: red}
+h2, h3 { margin-top: 2.5em;}
 h4, h5 { margin-top: 2em;}
 
 .header + .header h3,
@@ -57,7 +57,7 @@ h4, h5 { margin-top: 2em;}
     margin-top: 1em;
 }
 
-h1:target::before,
+h1:target::before{color: red},
 h2:target::before,
 h3:target::before,
 h4:target::before,
