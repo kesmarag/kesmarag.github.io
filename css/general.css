@@ -37,7 +37,7 @@ main {
     overflow-x: auto;
 }
 
-h1 {color: red}
+
 
 /* Don't change font size in headers. */
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
@@ -193,3 +193,7 @@ blockquote {
 .result-no-output {
     font-style: italic;
 }
+
+h1 {color: red;}
+h2 {color: green;}
+h3 {color: magenta;}
