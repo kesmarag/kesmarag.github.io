@@ -36,9 +36,9 @@
     --fg: #463285;
 
     --sidebar-bg: #c8c9db;
-    --sidebar-fg: #6a2450;
+    --sidebar-fg: #463285;
     --sidebar-non-existant: #505254;
-    --sidebar-active: #463285;
+    --sidebar-active: #6a2450;
     --sidebar-spacer: #318041;
 
     --scrollbar: var(--sidebar-fg);
@@ -69,7 +69,7 @@
     --searchresults-border-color: #888;
     --searchresults-li-bg: #dec2a2;
     --search-mark-bg: #e69f67;
-    --h1-color: #cc6666
+    --h1-color: #cc6666;
 }
 
 
