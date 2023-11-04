@@ -43,16 +43,16 @@
 
     --scrollbar: var(--sidebar-fg);
 
-    --icons: #c8c9db;
-    --icons-hover: #463285;
+    --icons: #463285;
+    --icons-hover: #318041;
 
     --links: #34727b;
 
     --inline-code-color: #6e6b5e;
 
-    --theme-popup-bg: #e1e1db;
-    --theme-popup-border: #b38f6b;
-    --theme-hover: #99908a;
+    --theme-popup-bg: #c8c9db;
+    --theme-popup-border: #3f4069;
+    --theme-hover: #318041;
 
     --quote-bg: hsl(60, 5%, 75%);
     --quote-border: hsl(60, 5%, 70%);
