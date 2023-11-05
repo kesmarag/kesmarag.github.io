@@ -1,13 +1,13 @@
 body {
-    font-family: 'Libertinus Serif', serif; /**/
-      /* font-family: 'Iosevka', monoscript; /\**\/ */
-      font-size: 22px; 
+    /* font-family: 'Libertinus Serif', serif; /\**\/ */
+      font-family: 'Iosevka Etoile', serif; /**/
+      font-size: 18px; 
 }
 
 
 h1 {
     font-variant: small-caps;
-    font-size: 28px;
+    font-size: 26px;
     color: #6a2450;
 }
 
@@ -24,7 +24,7 @@ h1::after{
 
 h2 {
     font-variant: small-caps;
-    font-size: 26px;
+    font-size: 24px;
     color: #6a2450;
 }
 
@@ -41,7 +41,7 @@ h2::after {
 
 h3 {
     font-variant: small-caps;
-    font-size: 24px;
+    font-size: 22px;
     color: #6a2450;
 }
 
@@ -58,5 +58,5 @@ h3::after {
 
 .sidebar {
     font-variant: small-caps;
-    font-size: 22px;
+    font-size: 18px;
 }
