@@ -1,11 +1,11 @@
 body {
     font-family: 'Libertinus Serif', serif;
-      font-size: 22px; 
+      font-size: 20px; 
 }
 
 
 h1 {
-    font-size: 28px;
+    font-size: 26px;
     color: #6a2450;
 }
 
@@ -21,7 +21,7 @@ h1::after{
 
 
 h2 {
-    font-size: 26px;
+    font-size: 24px;
     color: #6a2450;
 }
 
@@ -37,7 +37,7 @@ h2::after {
 
 
 h3 {
-    font-size: 24px;
+    font-size: 22px;
     color: #6a2450;
 }
 
