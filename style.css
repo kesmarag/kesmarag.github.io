@@ -1,0 +1,52 @@
+body {
+    font-family: 'Libertinus Serif', serif;
+      font-size: 22px; 
+}
+
+
+h1 {
+    font-size: 28px;
+    color: #6a2450;
+}
+
+h1::before {
+    color: #463285;
+    content: "- ";
+}
+
+h1::after{
+    color: #463285;
+    content: " -"
+}
+
+
+h2 {
+    font-size: 26px;
+    color: #6a2450;
+}
+
+h2::before {
+    color: #463285;
+    content: "- ";
+}
+
+h2::after {
+    color: #463285;
+    content: " -"
+}
+
+
+h3 {
+    font-size: 24px;
+    color: #6a2450;
+}
+
+h3::before {
+    color: #463285;
+    content: "- ";
+}
+
+h3::after {
+    color: #463285;
+    content: " -"
+}
