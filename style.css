@@ -12,12 +12,12 @@ h1 {
 }
 
 h1::before {
-    color: #463285;
+    /* color: #463285; */
     content: "";
 }
 
 h1::after{
-    color: #463285;
+    /* color: #463285; */
     content: ""
 }
 
