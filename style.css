@@ -4,6 +4,41 @@ body {
       font-size: 18px; 
 }
 
+@font-face {
+	font-family: 'Iosevka Aile Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iosevka-aile-regular.woff2') format('woff2'), url('ttf/iosevka-aile-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Aile Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('woff2/iosevka-aile-oblique.woff2') format('woff2'), url('ttf/iosevka-aile-oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Aile Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	src: url('woff2/iosevka-aile-oblique.woff2') format('woff2'), url('ttf/iosevka-aile-oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Aile Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iosevka-aile-italic.woff2') format('woff2'), url('ttf/iosevka-aile-italic.ttf') format('truetype');
+}
+
 
 h1 {
     font-variant: small-caps;
