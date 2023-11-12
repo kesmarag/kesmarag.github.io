@@ -6,23 +6,23 @@ body {
 
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunrm.ttf') format('truetype');
+    src: url('ttf/cmunorm.ttf') format('truetype');
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunbx.ttf') format('truetype');
+    src: url('ttf/cmunobx.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunti.ttf') format('truetype');
+    src: url('ttf/cmunoti.ttf') format('truetype');
     font-style: italic;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunbi.ttf') format('truetype');
+    src: url('ttf/cmunobi.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     }
@@ -65,7 +65,7 @@ body {
 
 h1 {
     font-variant: small-caps;
-    font-size: 26px;
+    font-size: 24px;
     color: #6a2450;
 }
 
@@ -82,7 +82,7 @@ h1::after{
 
 h2 {
     font-variant: small-caps;
-    font-size: 24px;
+    font-size: 22px;
     color: #6a2450;
 }
 
@@ -99,7 +99,7 @@ h2::after {
 
 h3 {
     font-variant: small-caps;
-    font-size: 22px;
+    font-size: 20px;
     color: #6a2450;
 }
 
