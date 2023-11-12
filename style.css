@@ -1,8 +1,29 @@
 body {
     /* font-family: 'Libertinus Serif', serif; /\**\/ */
-      font-family: 'Iosevka Aile Web'; /**/
+      font-family: 'Computer Modern'; /**/
       font-size: 18px; 
 }
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('ttf/cmunorm.ttf') format('truetype');
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('ttf/cmunobx.ttf');
+    font-weight: bold;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('ttf/cmunoti.ttf');
+    font-style: italic, oblique;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('ttf/cmunobi.ttf');
+    font-weight: bold;
+    font-style: italic, oblique;
+    }
 
 @font-face {
 	font-family: 'Iosevka Aile Web';
