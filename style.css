@@ -7,22 +7,24 @@ body {
 @font-face {
     font-family: "Computer Modern";
     src: url('ttf/cmunorm.ttf') format('truetype');
+    font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobx.ttf');
+    src: url('ttf/cmunobx.ttf') format('truetype');
     font-weight: bold;
+    font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunoti.ttf');
-    font-style: italic, oblique;
+    src: url('ttf/cmunoti.ttf') format('truetype');
+    font-style: italic;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobi.ttf');
+    src: url('ttf/cmunobi.ttf') format('truetype');
     font-weight: bold;
-    font-style: italic, oblique;
+    font-style: italic;
     }
 
 @font-face {
