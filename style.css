@@ -6,23 +6,23 @@ body {
 
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunorm.ttf') format('truetype');
+    src: url('ttf/cmunrm.ttf') format('truetype');
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobx.ttf') format('truetype');
+    src: url('ttf/cmunbx.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunoti.ttf') format('truetype');
+    src: url('ttf/cmunti.ttf') format('truetype');
     font-style: italic;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobi.ttf') format('truetype');
+    src: url('ttf/cmunbi.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     }
