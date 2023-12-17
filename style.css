@@ -6,61 +6,26 @@ body {
 
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunorm.ttf') format('truetype');
+    src: url('fonts/cmunorm.ttf') format('truetype');
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobx.ttf') format('truetype');
+    src: url('fonts/cmunobx.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunoti.ttf') format('truetype');
+    src: url('fonts/cmunoti.ttf') format('truetype');
     font-style: italic;
   }
 @font-face {
     font-family: "Computer Modern";
-    src: url('ttf/cmunobi.ttf') format('truetype');
+    src: url('fonts/cmunobi.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     }
-
-@font-face {
-	font-family: 'Iosevka Aile Web';
-	font-display: swap;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: normal;
-	src: url('woff2/iosevka-aile-regular.woff2') format('woff2'), url('ttf/iosevka-aile-regular.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Iosevka Aile Web';
-	font-display: swap;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: oblique;
-	src: url('woff2/iosevka-aile-oblique.woff2') format('woff2'), url('ttf/iosevka-aile-oblique.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Iosevka Aile Web Oblique';
-	font-display: swap;
-	font-weight: 400;
-	font-stretch: normal;
-	src: url('woff2/iosevka-aile-oblique.woff2') format('woff2'), url('ttf/iosevka-aile-oblique.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Iosevka Aile Web';
-	font-display: swap;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: italic;
-	src: url('woff2/iosevka-aile-italic.woff2') format('woff2'), url('ttf/iosevka-aile-italic.ttf') format('truetype');
-}
 
 
 h1 {

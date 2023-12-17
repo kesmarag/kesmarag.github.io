@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
-<html lang="en" class="klight" dir="ltr">
+<html lang="en" class="light" dir="ltr">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Curriculum Vitae - Costas Smaragdakis&#x27; website</title>
+        <title>Curriculum Vitae - Costas Smaragdakis</title>
 
 
         <!-- Custom HTML head -->
@@ -28,7 +28,7 @@
         <link rel="stylesheet" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
-        <link rel="stylesheet" href="ktheme/style.css">
+        <link rel="stylesheet" href="style.css">
 
         <!-- MathJax -->
         <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -38,7 +38,7 @@
         <!-- Provide site root to javascript -->
         <script>
             var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "klight" : "klight";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
@@ -63,7 +63,7 @@
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
             var html = document.querySelector('html');
-            html.classList.remove('klight')
+            html.classList.remove('light')
             html.classList.add(theme);
             var body = document.querySelector('body');
             body.classList.remove('no-js')
@@ -144,7 +144,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">Costas Smaragdakis&#x27; website</h1>
+                    <h1 class="menu-title">Costas Smaragdakis</h1>
 
                     <div class="right-buttons">
                         <a href="https://kesmarag.github.io" title="home">Home</a>
