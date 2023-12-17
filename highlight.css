@@ -23,7 +23,7 @@
 .hljs-name,
 .hljs-selector-id,
 .hljs-selector-class {
-  color: #88312e;
+  color: #d70025;
 }
 
 /* Orange */
@@ -34,26 +34,26 @@
 .hljs-literal,
 .hljs-type,
 .hljs-params {
-  color: #88312e;
+  color: #b21e00;
 }
 
 /* Green */
 .hljs-string,
 .hljs-symbol,
 .hljs-bullet {
-  color: #318041;
+  color: #008200;
 }
 
 /* Blue */
 .hljs-title,
 .hljs-section {
-  color: #463285;
+  color: #0030f2;
 }
 
 /* Purple */
 .hljs-keyword,
 .hljs-selector-tag {
-  color: #6a2450;
+  color: #9d00ec;
 }
 
 .hljs {
@@ -72,11 +72,11 @@
 }
 
 .hljs-addition {
-  color: #318041;
+  color: #22863a;
   background-color: #f0fff4;
 }
 
 .hljs-deletion {
-  color: #66312e;
+  color: #b31d28;
   background-color: #ffeef0;
 }
