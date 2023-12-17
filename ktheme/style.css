@@ -1,0 +1,61 @@
+body {
+    /* font-family: 'Libertinus Serif', serif; /\**\/ */
+      font-family: 'Computer Modern'; /**/
+      font-size: 18px; 
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 24px;
+    color: #6a2450;
+}
+
+h1::before {
+    /* color: #463285; */
+    content: "";
+}
+
+h1::after{
+    /* color: #463285; */
+    content: ""
+}
+
+
+h2 {
+    font-variant: small-caps;
+    font-size: 22px;
+    color: #6a2450;
+}
+
+h2::before {
+    color: #463285;
+    content: "";
+}
+
+h2::after {
+    color: #463285;
+    content: ""
+}
+
+
+h3 {
+    font-variant: small-caps;
+    font-size: 20px;
+    color: #6a2450;
+}
+
+h3::before {
+    color: #463285;
+    content: "- ";
+}
+
+h3::after {
+    color: #463285;
+    content: " -"
+}
+
+
+.sidebar {
+    font-variant: small-caps;
+    font-size: 18px;
+}
