@@ -90,7 +90,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="home.html" class="active"><strong aria-hidden="true">1.</strong> Home page</a></li><li class="chapter-item expanded "><a href="cv.html"><strong aria-hidden="true">2.</strong> Curriculum Vitae</a></li><li class="chapter-item expanded "><a href="publications.html"><strong aria-hidden="true">3.</strong> Publications</a></li><li class="chapter-item expanded "><a href="teaching.html"><strong aria-hidden="true">4.</strong> Teaching</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="home.html" class="active">Home page</a></li><li class="chapter-item expanded "><a href="cv.html">Curriculum Vitae</a></li><li class="chapter-item expanded "><a href="publications.html">Publications</a></li><li class="chapter-item expanded "><a href="teaching.html">Teaching</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -217,6 +217,22 @@ Numerical solution using Machine Learning of Partial Integro-Differential Equati
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
