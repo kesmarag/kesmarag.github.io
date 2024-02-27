@@ -1,0 +1,577 @@
+** Personal information
+:PROPERTIES:
+:CUSTOM_ID: personal-information
+:END:
+Born: August 15, 1982 in Heraklion Crete, Greece.
+
+Marital Status: Married with 2 children (Renos b.2012, Emmy b.2016).
+
+Citizenship: Greek.
+
+Languages: Greek and English.
+
+Military Obligations: Fulfilled.
+
+** Affiliations
+:PROPERTIES:
+:CUSTOM_ID: affiliations
+:END:
+Mathematical and Physical Sciences, National Technical University of
+Athens (NTUA).
+
+- project: New Paradigms in Mathematical Finance Modeling, Analysis,
+  Computation
+
+- member of FEMO Lab ([[http://math.ntua.gr/~femo]])
+
+- supervisors: A. Papapantoleon, E. Georgoulis, M. Loulakis
+
+** Research Fields
+:PROPERTIES:
+:CUSTOM_ID: research-fields
+:END:
+M1. Mathematical Modelling
+
+M2. Scientific Computing
+
+M3. Stochastic Analysis
+
+M4. Probabilistic Models
+
+M5. Machine Learning
+
+M6. Reinforcement Learning - Control theory
+
+M7. Statistical Inference
+
+M8. Information Theory
+
+M9. Inverse Problems
+
+M10. Solving PDEs and PIDEs using Machine Learning
+
+*My contributions include problems from the following five scientific
+areas:*
+
+SA1. Ocean Acoustics / Seismo-acoustics (2008-today) [Active] - (M1, M2,
+M4, M5, M7, M8, M9, M10)
+
+SA2. Mathematical and Computational Seismology (2017-today) [Active] -
+(M1, M2, M3, M5, M6, M7, M9, M10)
+
+SA3. Mathematical Finance (2021-today) [Very Active] - (M1, M2, M3, M5,
+M8, M10)
+
+SA4. Denoising/Deblurring of acoustic and seismic signals (2015-today)
+[Active] - (M1, M2, M5, M7)
+
+SA5. Bioacoustics/Psychoacoustics (2013-2015) [Inactive] - (M1, M2, M5)
+
+** Education
+:PROPERTIES:
+:CUSTOM_ID: education
+:END:
+****BSc**** in Applied Mathematics, Department of Applied Mathematics,
+University of Crete (2000-2005).
+
+****MSc**** in Mathematical Modeling and Scientific Computing,
+Departments of Mathematics and Applied Mathematics, University of Crete
+(2005-2008).
+
+- Master thesis: On the use of Genetic Algorithms and a statistical
+  characterization of the acoustic signal for tomographic and bottom
+  geoacoustic inversions (in Greek).
+
+- Supervisor : Michael Taroudakis.
+
+****PhD**** in Applied Mathematics, Department of Mathematics and
+Applied Mathematics, University of Crete (2012-2019).
+
+- PhD thesis : Acoustic Signal Characterization using Hidden Markov
+  Models with applications in Acoustical Oceanography.
+
+- Supervisor : Michael Taroudakis.
+
+** Teaching
+:PROPERTIES:
+:CUSTOM_ID: teaching
+:END:
+Spring Semester 2022-2023: Course MEM 273 - *Partial Differential
+Equations*
+
+- [[https://kesmarag.github.io/pde23]]
+- [[https://kesmarag.github.io/files/pde_2023.pdf][Course evaluation by
+  the students]]
+
+Sprint Semester 2022-2023: Course MEM 205 - *Descriptive Statistics*
+
+- [[https://kesmarag.github.io/dstat23]]
+- [[https://kesmarag.github.io/files/dstat_2023.pdf][Course evaluation
+  by the students]]
+
+Fall Semester 2022-2023: Course MEM theta-602 - *Topics in Probability
+and Statistics : Mathematical Finance*
+
+- [[https://kesmarag.github.io/mf2223]]
+
+- [[https://kesmarag.github.io/files/mathematical_finance_2023.pdf][Course
+  evaluation by the students]]
+
+Spring Semester 2021-2202: Course MEM 284 - *Wave Propagation
+(Mathematical Seismology)*
+
+- [[https://kesmarag.gitlab.io/courses/mem284]]
+
+- [[https://kesmarag.gitlab.io/cv/Smaragdakis_Kumatiki_Diadosi_statistics.pdf][Course
+  evaluation by the students]]
+
+Spring Semester 2021-2022: Course MEM 205 - *Descriptive Statistics*
+
+- [[https://kesmarag.gitlab.io/courses/mem205-2022]]
+
+- [[https://kesmarag.gitlab.io/cv/Smaragdakis_Perigrafiki_Statistiki_statistics.pdf][Course
+  evaluation by the students]]
+
+Fall Semester 2021-2022: Course MEM 100 - *Analytical Geometry and
+Complex Numbers*
+
+- [[https://polyhedron.math.uoc.gr/2122/moodle/course/view.php?id=5]]
+
+- I do not provide the course evaluation since the course was co-taught
+  with another instructor (GDPR Data Protection)
+
+Spring Semester 2020-2021: Course MEM 264 - *Applied Statistics*
+
+- [[https://kesmarag.gitlab.io/courses/mem264]]
+
+- [[https://kesmarag.gitlab.io/cv/Efarmosmeni_Statistiki_statistics.pdf][Course
+  evaluation by the students]]
+
+Spring Semester 2020-2021: Course MEM 205 - *Descriptive Statistics*
+
+- [[https://kesmarag.gitlab.io/courses/mem205]]
+
+- [[https://kesmarag.gitlab.io/cv/Perigrafiki_Statistiki_statistics.pdf][Course
+  evaluation by the students]]
+
+Fall Semester 2020-2021: Course MEM 262 - *Parametric Statistics*
+
+- [[https://kesmarag.gitlab.io/courses/mem262]]
+
+- [[https://kesmarag.gitlab.io/courses/mem262/files/Parametriki_Statistiki_statistics.pdf][Course
+  evaluation by the students]]
+
+Spring Semester 2019-2020: Course MEM 205 - *Descriptive Statistics*
+
+- [[https://kesmarag.gitlab.io/descriptive-statistics]]
+
+- Νo course evaluation was carried out due to the COVID-19 pandemic
+
+** Summer School Instructor
+:PROPERTIES:
+:CUSTOM_ID: summer-school-instructor
+:END:
+Mathematics of Machine and Statistical Learning, NTUA, 19-23 June 2023
+
+Hands-On Training: Learning the Black-Scholes price formula
+
+- [[https://kesmarag.github.io/pde23/lectures/PartA.ipynb][Part A :
+  22.06.2023]]
+
+- [[https://kesmarag.github.io/pde23/lectures/PartB.ipynb][Part B :
+  22.06.2023]] (Synthetic Data
+  [[https://kesmarag.github.io/pde23/lectures/xt.npy][Part A]] &
+  [[https://kesmarag.github.io/pde23/lectures/prices.npy][Part B]])
+
+- [[https://kesmarag.github.io/pde23/lectures/PartC.ipynb][Part C :
+  23.06.2023]]
+
+** Past Employments
+:PROPERTIES:
+:CUSTOM_ID: past-employments
+:END:
+2003/02-2003/06: Work Placement, Sensitivity Kernels of the Green
+function in Ocean Acoustic Waveguides, IACM/FORTH (Supervisor : Emmanuel
+Skarsoulis).
+
+2006-2008 and 2012-2019: Teaching Assistant at Department of Mathematics
+and Applied Mathematics.
+
+2010/08-2015/06: Tutor for high-school students in a tuition center in
+Heraklion, Crete (Themelio).
+
+2013/09-2015/08: Research Fellow (KRHPIS/PEFYKA - General Secretariat
+for Research and Technology), IACM/FORTH.
+
+2016/01-2016/10: Research Fellow (SIEMENS - General Secretariat for
+Research and Technology), IACM/FORTH.
+
+2017/04-2018/04: Research Fellow (ARCHERS - Stavros Niarchos
+Foundation), IACM/FORTH.
+
+2018/08-2019/07: Research Fellow (KRHPIS/PERAN - General Secretariat for
+Research and Technology), IACM/FORTH.
+
+2019/08-2019/11: Postdoctoral Researcher (KRHPIS/PERAN - General
+Secretariat for Research and Technology), IACM/FORTH.
+
+2020/01-2020/03: Postdoctoral Researcher (KRHPIS/POLITEIA - General
+Secretariat for Research and Technology), IACM/FORTH.
+
+2020/02-2023/09: Adjunct Faculty, Department of Mathematics and Applied
+Mathematics, University of Crete.
+
+2021/05-2022/02: Postdoctoral Researcher (TURNKEY - HORIZON), Institute
+of Geodynamics, National Observatory of Athens.
+
+** Short-term Visits
+:PROPERTIES:
+:CUSTOM_ID: short-term-visits
+:END:
+2022/12/11-2022/12/18: Institute of Applied Mathematics, TU Delft
+(invited by Prof Antonis Papapantoleon)
+
+2023/05/24-2023/06/01: Applied Mathematics and Computational Science,
+KAUST (invited by Prof Raul Tempone)
+
+2023/09/03-2023/09/12: Institute of Applied Mathematics, TU Delft
+(invited by Prof Antonis Papapantoleon)
+
+** Technical Skills
+:PROPERTIES:
+:CUSTOM_ID: technical-skills
+:END:
+Programming Languages: Fortran, C, ****C++****, ****Rust****, Java,
+****Python****, Elisp, Matlab.
+
+Scientific Libraries: Numpy, Scipy, Scikit-learn, ****TensorFlow****,
+****PyTorch**** Pandas, Eigen3
+
+Seismological Software: Seiscomp3, Instaseis, AxiSEM, Specfm2D, ObsPy
+
+Databases: MariaDB, SQLite
+
+Operating System: GNU/Linux (Fedora/RHEL and Gentoo).
+
+Software Containerization Platforms: Docker-Podman, Conda, Virtualenv.
+
+Typesetting: LaTeX, OrgMode
+
+** Computer codes
+:PROPERTIES:
+:CUSTOM_ID: computer-codes
+:END:
+*** GrMot : strong GRound MOTion simulations (Library written in Rust with Python API)
+:PROPERTIES:
+:CUSTOM_ID: grmot-strong-ground-motion-simulations-library-written-in-rust-with-python-api
+:END:
+[[https://github.com/kesmarag/grmot]]
+
+*** hmm-gmm-tf2 : Hidden Markov Models (Library on top of Tensorflow 2)
+:PROPERTIES:
+:CUSTOM_ID: hmm-gmm-tf2-hidden-markov-models-library-on-top-of-tensorflow-2
+:END:
+[[https://github.com/kesmarag/hmm-gmm-tf2]]
+
+*** stationary-wavelet-packet-transform (Library on top of PyWavelets)
+:PROPERTIES:
+:CUSTOM_ID: stationary-wavelet-packet-transform-library-on-top-of-pywavelets
+:END:
+[[https://github.com/kesmarag/stationary-wavelet-packet-transform]]
+
+*** There are smaller projects in my public repositories
+:PROPERTIES:
+:CUSTOM_ID: there-are-smaller-projects-in-my-public-repositories
+:END:
+[[https://gitlab.com/kesmarag]]
+
+[[https://github.com/kesmarag]]
+
+** Mentorship
+:PROPERTIES:
+:CUSTOM_ID: mentorship
+:END:
+2019/09 - 2019/12: Assistant Mentor, Department of Mathematics and
+Applied Mathematics, University of Crete
+
+- Olga Sambataro's trainship (Erasmus+ EQF level 7)
+
+- Underwater Acoustics, Propagation Modeling, Signal Processing
+
+2020: Supervisor, Department of Mathematics and Applied Mathematics,
+University of Crete
+
+- Panteleimon Sfakianakis' bachelor thesis
+
+- Applying Machine Learning Techniques for Preventive Maintenance of
+  Professional Equipment
+
+2022: Supervisor, Department of Mathematics and Applied Mathematics,
+University of Crete
+
+- Stylianos Grammatikakis' bachelor thesis
+
+- Statistical analysis of seismicity in Arkalochori
+
+2022: Supervisor, Department of Mathematics and Applied Mathematics,
+University of Crete
+
+- Vassiliki Kalogera's bachelor thesis
+
+- Machine learning and Geographic Information Systems
+
+2022: Supervisor, Department of Mathematics and Applied Mathematics,
+University of Crete
+
+- Dionysia Petropoulou's bachelor thesis
+
+- Music genre classification using machine learning techniques
+
+** Member of Examination Committee
+:PROPERTIES:
+:CUSTOM_ID: member-of-examination-committee
+:END:
+2021: Department of Mathematics and Applied Mathematics, University of
+Crete
+
+- Panagiotis Evaggelidakis' bachelor thesis (supervised by Michael
+  Taroudakis)
+
+- Time-frequency analysis of underwater acoustic signals in the presence
+  of additive Gaussian noise
+
+2022: Department of Mathematics and Applied Mathematics, University of
+Crete
+
+- Maria Anthoulaki's bachelor thesis (supervised by Ioannis
+  Kamarianakis)
+
+- Linear Predictive Models with Shrinkage Estimates: Forecasting
+  wind-farm power outputs
+
+2023: Department of Mathematics and Applied Mathematics, University of
+Crete
+
+- Athena Michalopoulou's bachelor thesis (supervised by Sofia
+  Triantafyllou)
+
+- Statistical Analysis of Factors Influencing the Graduation Rate of the
+  Department of Mathematics and Applied Mathematics
+
+** Peer Reviews for
+:PROPERTIES:
+:CUSTOM_ID: peer-reviews-for
+:END:
+Journal of the Acoustical Society of America (JASA)
+
+Sensors - MDPI
+
+Dynamical Systems - Frontiers in Applied Mathematics and Statistics
+
+Solid Earth Geophysics - Frontiers in Earth Science
+
+Sustainability - MDPI
+
+Journal of Marine Science and Engineering - MDPI
+
+** Memberships
+:PROPERTIES:
+:CUSTOM_ID: memberships
+:END:
+(since 2014) Hellenic Institute of Acoustics (HELINA).
+
+(since 2018) Seismological Society of America (SSA).
+
+(since 2019) American Statistical Association (ASA) [ID 223078]
+
+(since 2019) Ocean Expert [ID 37775]
+
+(since 2020) Editorial Board of Dynamical Systems, Frontiers in Applied
+Mathematics and Statistics
+
+(since 2021) Topic Editor of Sustainability - MDPI
+
+(since 2023) Society for Industrial and Applied Mathematics (SIAM) [ID
+020991253]
+
+** Preprints
+:PROPERTIES:
+:CUSTOM_ID: preprints
+:END:
+E.H. Georgoulis, A. Papapantoleon, C. Smaragdakis: *A deep
+implicit-explicit minimizing movement method for option pricing in
+jump-diffusion models.* Preprint and submitted for publication, 2024.
+[[[https://arxiv.org/pdf/2401.06740][pdf]],
+[[https://arxiv.org/abs/2401.06740][arXiv:2401.06740]]]
+
+** Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
+Taroudaki V., Smaragdakis C. and Taroudakis M.I.: *Deblurring Acoustic
+Signals for Optimum Perception* Advances in Social Sciences Research
+Journal, 9(11), 221--242, 2022.
+
+Smaragdakis C., Mastrokalos J. and Taroudakis M.I.: *Statistical
+Characterization of Seismic Signals* Journal of Theoretical and
+Computational Acoustics. DOI: 10.1142/S25917285225000-49, 2022
+
+Smaragdakis C. and Taroudakis M.I.: *Acoustic signal characterization
+based on Hidden Markov Models with applications to geoacoustic
+inversions* Journal of the Acoustical Society of America Vol. 148, pp
+2337-2350, 2020
+
+Smaragdakis C. and Taroudakis M.I.: *Probabilistic Characterisation of
+Acoustic and Seismic Signals* ERCIM News 122, Special Theme: Solving
+Engineering Problems with Machine Learning, pp. 35-36, 2020.
+
+Taroudakis M., Smaragdakis C and Chapman N.R.: *De-noising procedures
+for inverting underwater acoustic signals in applications of acoustical
+oceanography* J. Comp. Acous. Vol. 25, pp. 1750015-1-23, 2017
+
+Taroudakis M.I., Smaragdakis C. and Chapman, N.R. *Inversion of
+acoustical data from the 'Shallow Water 06' experiment, using a
+statistical method for signal characterization* Journal of the
+Acoustical Society of America Vol. 136, pp. EL336-EL342, 2014
+
+Taroudakis M.I. and Smaragdakis C. *Inversions of statistical parameters
+of an acoustic signal in range-dependent environments with applications
+in ocean acoustic tomography* Journal of the Acoustical Society of
+America Vol. 134, pp 2814-2822, 2013
+
+Taroudakis M.I. and Smaragdakis C. *Tomographic and Bottom Geoacoustic
+Inversions Using Genetic Algorithms and a Statistical Characterization
+of the Acoustic Signal* Acta Acustica united with Acustica Vol 95, No 5,
+pp 814-822, 2009
+
+** Under Preparation
+:PROPERTIES:
+:CUSTOM_ID: under-preparation
+:END:
+Smaragdakis C. and Melis N.: *Near-Field Ground Motion Simulations*
+
+** Conference Talks/Proceedings and Workshops
+:PROPERTIES:
+:CUSTOM_ID: conference-talksproceedings-and-workshops
+:END:
+2023: Dimari G., Papadakis N., Smaragdakis C., Taroudakis M.: "Migration
+Flows Prediction Models and their Impact on the 'Politicalness' of
+Everyday Lives in Host States: the PreMiGro case", ECPR General
+Conference, Charles University, 4-8 September 2023, Prague.
+
+2023: Smaragdakis C., Papapantoleon A., Georgoulis E.: "A Splitting Deep
+Ritz Method for Option Pricing in Lévy Models", Workshop: Stochastic
+Methods in Finance and Physics, 17-21 July 2023, Heraklion.
+
+2023: Smaragdakis C., Papapantoleon A., Georgoulis E.: "A Splitting Deep
+Ritz Method for Option Pricing in Lévy Models", SIAM Conference on
+Financial Mathematics and Engineering 2023, 6-9 June, Philadelphia, USA.
+
+2022: Smaragdakis C., Maris I., Taroudakis M.: "Identification of normal
+modes in underwater acoustic propagation using convolutional neural
+networks", in Proceedings of 11th Acoustic Conference of HELINA,
+Thessaloniki (In Greek).
+
+2021: Smaragdakis C., Melis N.: “Strong ground motion simulation in the
+near field: An application to the M7.0 Samos 2020 earthquake", 37th
+General Assembly of the European Seismological Commission, 19 - 24
+Semtember 2020, virtual.
+
+2020: Sambataro O., Smaragdakis C. and Taroudakis M.: “A comparison of
+processing techniques applied to time-frequency representation of
+acoustic signals intended for geoacoustic inversions" in Proceedings
+e-Forum Acusticum 2020, pp 1769-1775.
+
+2019: Smaragdakis C., Taroudakis M. “Acoustic Signal Characterization
+using Hidden Markov Models with applications in Acoustical
+Oceanography.", Abstract in Proceedings ICA 2019 and EAA Euroregio, 9 -
+13 September 2019, Aachen, Germany, pp 5399
+
+2018: Smaragdakis C., Mastrokalos J. and Taroudakis M. “Classification
+of acoustic and seismic signals based on the statistics of their wavelet
+sub-band coefficients", The Journal of the Acoustical Society of America
+144(3):1914-1914 DOI: 10.1121/1.5068386.
+
+2018: Taroudaki V., Taroudakis M. and Smaragdakis C. “Statistical
+optimal filtering method for acoustical signal deblurring", The Journal
+of the Acoustical Society of America 144(3):1689-1689 DOI:
+10.1121/1.5067509
+
+2018: Smaragdakis C., Taroudakis M. “Similarity measurements of
+acoustical and seismic signals using Hidden Markov Models", In
+Proceedings of 9th Acoustic Conference of HELINA, Patras (In Greek)
+
+2017: Smaragdakis C. and Taroudakis M. : “A probabilistic approach based
+on Hidden Markov Models for the estimation of the geoacoustic parameters
+of the sea bottom", 4th Underwater Acoustics Conference and Exhibition,
+Skiathos, Greece.
+
+2017: Taroudaki V., Smaragdakis C. and Taroudakis M. “Statistical
+Near-Optimal Filtering Method with Application to Underwater Acoustics",
+Abstract of Paper Procedings in AMS Meetings, Vol 38 No 1, Issue 187,
+p 220.
+
+2016: Taroudaki V., Smaragdakis C. and Taroudakis M. “Deblurring
+acoustic signals for statistical characterization in application of
+ocean acoustic tomography" in the Journal of the Acoustical Society of
+America 140(4):3135-3135.
+
+2016: Taroudakis M. and Smaragdakis C. “Ocean acoustic tomography using
+a three-phased probabilistic model-based inversion scheme" in
+Proceedings of the ICA 2016, Buenos Aires.
+
+2016: Smaragdakis C. and Taroudakis M. “Hidden Markov Models feature
+extraction for inverting underwater acoustic signals using wavelet
+packet coefficients", EuroRegio2016, Porto, Portugal.
+
+2016: Smaragdakis C., Taroudakis M. “Ocean acoustic tomography using a
+three-phased probabilistic model-based inversion scheme", In Proceedings
+of the 8th Acoustic Conference of HELINA, Piraeus (In Greek).
+
+2015: Taroudakis M. and Smaragdakis C. “De-noising procedures for
+inverting underwater acoustic signals in applications of acoustical
+oceanography" in Proceedings of EuroNoise 2015 31 May - 3 June,
+Maastricht.
+
+2014: Taroudakis M. and Smaragdakis C. “A hybrid approach for ocean
+acoustic tomography in range dependent environments based on statistical
+characterization of the acoustic signal and the identification of modal
+arrivals" in Proceedings of FORUM ACUSTICUM 2014 (CD edition), Krakow,
+Poland.
+
+2014: Smaragdakis C and Taroudakis M. “Characterization of underwater
+acoustic signals, using a bio-mathematical model of the psycho-acoustic
+mechanisms of Humpback whales." in Proceedings of 7th Acoustic
+Conference of HELINA, Thessaloniki (In Greek).
+
+2014: Taroudakis M. and Smaragdakis C. “A hybrid approach for ocean
+acoustic tomography based on statistical characterization of the
+acoustic signal and the identification of modal arrivals" in Proceedings
+of the 2nd Underwater Acoustics Conference edited by J.S. Papadakis and
+L. Bjorno, Rhodes, Greece, pp 691-698.
+
+2012: Taroudakis M. and Smaragdakis C. “Inversions of Statistical
+Parameters of an Acoustic Signal in Range-Dependent Environments, with
+Applications in Ocean Acoustic Tomography" in Proceedings of the 11th
+European Conference on Underwater Acoustics, Edinburgh, pp 962-969.
+
+2010: Papadakis P., Smaragdakis C., Taroudakis M. and Tolstoy A. “Hybrid
+inversion techniques for geoacoustic inversion" in Proceedings of the
+9th European Conference on Underwater Acoustics, Istanbul.
+
+2010: Taroudakis M. and Smaragdakis C. “Underwater Acoustic Signal
+Characterization in the presence of Noise", in Internoise 2010, CD Rom
+edition, Lisbon.
+
+** Invited lectures / talks
+:PROPERTIES:
+:CUSTOM_ID: invited-lectures-talks
+:END:
+03/03/2023 - National Technical University of Athens (workshop - New
+Challenges in Financial Mathematics and Mathematical Economics) : “A
+splitting deep Ritz method for option pricing in Lévy models",
+
+08/12/2021 - FORTH : “Classification of Acoustic and Seismic Signals"
+
+28/04/2021 - Eastern Washington University (USA) : “Characterization of
+Time-Series using Hidden Markov Models"
