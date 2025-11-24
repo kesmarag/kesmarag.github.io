@@ -1,0 +1,9 @@
+(undo-tree-save-format-version . 1)
+"79466798b0e1316573d988488c6e6ce75622828a"
+[nil nil nil nil (26817 14026 86451 542000) 0 nil]
+([nil nil ((886 . 887) (t 26773 64797 153132 870000)) nil (26817 14026 86450 449000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1063 . 1064) (nil fontified nil 1063 . 1064) (nil invisible markdown-markup 1062 . 1063) (nil fontified nil 1062 . 1063) (nil mouse-face markdown-highlight-face 1047 . 1062) (nil keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) 1047 . 1062) (nil invisible markdown-markup 1047 . 1062) (nil fontified nil 1047 . 1062) (nil invisible markdown-markup 1046 . 1047) (nil fontified nil 1046 . 1047) (nil invisible markdown-markup 1045 . 1046) (nil fontified nil 1045 . 1046) (nil mouse-face markdown-highlight-face 1042 . 1045) (nil keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) 1042 . 1045) (nil help-echo "./files/AMS.pdf" 1042 . 1045) (nil fontified nil 1042 . 1045) (nil invisible markdown-markup 1041 . 1042) (nil fontified nil 1041 . 1042) (nil fontified nil 1007 . 1041) (nil invisible markdown-markup 1005 . 1007) (nil fontified nil 1005 . 1007) (nil fontified nil 934 . 1005) (nil invisible markdown-markup 932 . 934) (nil fontified nil 932 . 934) (nil fontified nil 886 . 932) (886 . 1064)) nil (26817 14026 86449 270000) 0 nil])
+([nil nil ((#(" Numer. Math." 0 13 (fontified t)) . 1007) (undo-tree-id0 . -13) (undo-tree-id1 . -6) (undo-tree-id2 . -3) (undo-tree-id3 . -2) (undo-tree-id4 . -1) (undo-tree-id5 . -13)) nil (26817 14026 86446 873000) 0 nil])
+([nil nil ((1007 . 1008)) nil (26817 14026 86421 88000) 0 nil])
+([nil current ((nil rear-nonsticky nil 1028 . 1029) (nil fontified nil 1008 . 1029) (1008 . 1029)) nil (26817 14026 86414 714000) 0 nil])
+nil
