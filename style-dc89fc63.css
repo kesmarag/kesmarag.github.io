@@ -1,0 +1,91 @@
+body {
+    /* font-family: 'Libertinus Serif', serif; /\**\/ */
+      font-family: 'Computer Modern'; /**/
+      font-size: 20px; 
+}
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('fonts/cmunorm.ttf') format('truetype');
+    font-style: normal;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('fonts/cmunobx.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('fonts/cmunoti.ttf') format('truetype');
+    font-style: italic;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('fonts/cmunobi.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    }
+
+
+h1 {
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 24px;
+    color: #6a2450;
+}
+
+h1::before {
+    /* color: #463285; */
+    content: "";
+}
+
+h1::after{
+    /* color: #463285; */
+    content: ""
+}
+
+
+h2 {
+    font-variant: small-caps;
+    font-size: 22px;
+    color: #6a2450;
+}
+
+h2::before {
+    color: #463285;
+    content: "";
+}
+
+h2::after {
+    color: #463285;
+    content: ""
+}
+
+
+h3 {
+    font-variant: small-caps;
+    font-size: 20px;
+    color: #6a2450;
+}
+
+h3::before {
+    color: #463285;
+    content: "- ";
+}
+
+h3::after {
+    color: #463285;
+    content: " -"
+}
+
+
+.sidebar {
+    font-variant: small-caps;
+    font-size: 18px;
+}
+
+ img[src*='#center'] {
+    display: block;
+    margin: auto;
+}

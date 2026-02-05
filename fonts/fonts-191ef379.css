@@ -1,0 +1,26 @@
+/* Open Sans is licensed under the Apache License, Version 2.0. See http://www.apache.org/licenses/LICENSE-2.0 */
+/* Source Code Pro is under the Open Font License. See https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL */
+
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('cmunorm.ttf') format('truetype');
+    font-style: normal;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('cmunobx.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('cmunoti.ttf') format('truetype');
+    font-style: italic;
+  }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('cmunobi.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    }
